@@ -29,10 +29,3 @@ pip install -r requirements.txt
 Run the Project
 
 python bank_system.py
-
-Project Structure
-
-Simple-Bank-System/
-├── bank_system.py
-├── requirements.txt
-└── README.md
